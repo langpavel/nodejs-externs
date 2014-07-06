@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-externs",
+  "version": "0.10.0",
+  "description": "Google Closure Compiler externs for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steida/nodejs-externs.git"
+  },
+  "keywords": [
+    "google",
+    "closure",
+    "compiler",
+    "externs",
+    "node.js"
+  ],
+  "author": "Daniel Steigerwald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steida/nodejs-externs/issues"
+  },
+  "homepage": "https://github.com/steida/nodejs-externs"
+}
